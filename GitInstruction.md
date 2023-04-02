@@ -21,6 +21,12 @@
 ### Базовая работа с локальным репозиторием
 
 ## Ветки. Локальная работа с ветками в git.
+Для работы с ветками в git используются команды:
+*git branch <branch_name>
+*git checkout <branch_name>
+*git branch <branch_name>
+*git merge <branch_name>
+*git branch -d <branch_name>
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
